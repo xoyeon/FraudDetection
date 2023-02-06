@@ -1,5 +1,3 @@
-"# FraudDetection" 
-"# FraudDetection" 
-"# FraudDetection" 
-"# FraudDetection" 
-"# FraudDetection" 
+# 인공지능을 활용한 이상거래 검출 기법
+
+[인프런](https://inf.run/e2b5)
